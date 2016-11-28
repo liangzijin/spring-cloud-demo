@@ -1,0 +1,5 @@
+datasource:
+  driverClassName: com.microsoft.sqlserver.jdbc.SQLServerDriver
+  url: jdbc:sqlserver://localhost:1433;DatabaseName=pro
+  username: sa
+  password: 1q2w3e4r!  
