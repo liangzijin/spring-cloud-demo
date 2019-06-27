@@ -1,7 +1,7 @@
 spring:
   datasource:
     username: root
-    password: hand@45440
+    password: handhand
     url: jdbc:mysql://127.0.0.1:3306/mt_db?useUnicode=true&characterEncoding=utf-8&useSSL=false
     driverClassName: com.mysql.jdbc.Driver
     type: com.alibaba.druid.pool.DruidDataSource
